@@ -1,3 +1,4 @@
 [submodule "arm64_asm_modules"]
 	path = arm64_asm_modules
 	url = https://github.com/CliffJumper/arm64_asm_modules.git
+	branch = main
